@@ -30,9 +30,3 @@ elif(option_ch == "2"):
     decy(ency_text)
 else:
     print("Error choose the correct option")
-    
-
-
-
-## And then to decode it:
-#decoded = cryptocode.decrypt(encoded, "mypassword")
